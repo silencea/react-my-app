@@ -1,0 +1,10 @@
+.container,
+div {
+  padding-top: 100px;
+  font-size: 30px;
+  text-align: center;
+}
+.container a,
+div a {
+  font-size: 18px;
+}
